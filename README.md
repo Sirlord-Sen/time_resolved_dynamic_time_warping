@@ -1,2 +1,2 @@
-# Mapping_metabolic_energy_demands_DTW
+# Aberrant Recovery of Timescale-Aligned Amplitude Balance Links to Symptoms and Cognition in Schizophrenia
  
