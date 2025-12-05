@@ -50,7 +50,7 @@ num_clusters = 3;
 replications = 20;
 
 % Perform k-means
-% [cluster_idx, cluster_c, cluster_sumd, cluster_D] = calculate_kmeans(we_k, cluster_num, 'cityblock', replications);
+% [cluster_idx, cluster_c, cluster_sumd, cluster_D] = calculate_kmeans(tr_DTW_k, cluster_num, 'cityblock', replications);
 % cluster_idx = reshape(cluster_idx, subjects_cnt, []); 
 
 % Generate random cluster indices for trDTW to mimic kmeans index output
