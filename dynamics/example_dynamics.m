@@ -79,7 +79,7 @@ sub_centroids_sz = group_sub_centroids(tr_DTW_sz, cluster_idx_sz, num_clusters);
 [mdt_sz, fr_sz, tm_sz, tc_sz] = trFNC_cluster_analysis(cluster_idx_sz, num_clusters);
 [mdt_cn, fr_cn, tm_cn, tc_cn] = trFNC_cluster_analysis(cluster_idx_cn, num_clusters);
 
-% Perform statistucan tests on mean dwell time (mdt), fractional occupancy
+% Perform statistical tests on mean dwell time (mdt), fractional occupancy
 % (fr), transition matrix (tm) and transition count (tc)
 
 %% Markov chain analysis
